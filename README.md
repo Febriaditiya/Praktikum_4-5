@@ -1,8 +1,8 @@
-#Praktikum 4&5
+# Praktikum 4&5
 
-##praktikum 4
+## praktikum 4
 
-##Tugas praktikum
+## Tugas praktikum
 
 	Buat progam sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut:
 	-Program meminta memasukkan data sebanyak-banyaknya (gunakan perulangan).
@@ -21,9 +21,9 @@
 
   ![3.png](/gambar/3.png)
 
-##Praktikum 5
+## Praktikum 5
 
-##Tugas Praktikum
+## Tugas Praktikum
 
 	Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan.
 	-Program dibuat dengan menggunakan `Dictionary`
@@ -44,4 +44,4 @@
    
    ![7.png](/gambar/7.png)
 
-##Selesai
+## Selesai
